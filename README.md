@@ -25,13 +25,6 @@ Toujours en veille technologique 🔍, je transforme les projets ambitieux 💡 
 
 ---
 
-### 📊 Statistiques GitHub :  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nin-Shinobi&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-</p>
-
----
-
 ### ⚡ Tech Stack — Matrice de Compétences
 
 <p align="center">
