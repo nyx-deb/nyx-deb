@@ -32,19 +32,11 @@ Toujours en veille technologique 🔍, je transforme les projets ambitieux 💡 
 
 ---
 
-### 🛠️ Stack actuelle :  
-🛠️ **Frontend :** React, Next.js, Vue.js  
-⚙️ **Backend :** Node.js, Express, Laravel  
-💾 **Base de données :** MongoDB, MySQL  
-🎨 **UI/UX :** Figma, Tailwind CSS  
-🧪 **Tests :** Jest, Cypress  
-
----
-
 ### ⚡ Tech Stack — Matrice de Compétences
 
 <p align="center">
-  <!-- Frontend -->
+  Frontend
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,9 +47,7 @@ Toujours en veille technologique 🔍, je transforme les projets ambitieux 💡 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <br><br>
-
-  <!-- Backend -->
+  Backend
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -66,23 +56,19 @@ Toujours en veille technologique 🔍, je transforme les projets ambitieux 💡 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-  <br><br>
-
-  <!-- Languages & Algo -->
+  Languages & Algo
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/ALGO-FF00FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 
   <br><br>
 
-  <!-- OS -->
+  OS
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
-  <br><br>
-
-  <!-- Cybersecurity -->
+  Cybersecurity
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Pentesting-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </p>
