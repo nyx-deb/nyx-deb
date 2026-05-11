@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://github.com/Nin-Shinobi/Nin-Shinobi/blob/main/THE-FUTURE.png" width="100%" alt="Banner"/>
 </p>
@@ -12,21 +11,6 @@
   <img src="https://img.shields.io/github/followers/Nin-Shinobi?style=for-the-badge&color=red" />
   <img src="https://img.shields.io/github/stars/Nin-Shinobi?style=for-the-badge&color=gold" />
 </p>
-
----
-
-<div align="center">
-
-```ascii
-███████╗██╗  ██╗██╗███╗   ██╗ ██████╗ ██████╗ ██╗██████╗ ██╗
-██╔════╝██║  ██║██║████╗  ██║██╔═══██╗██╔══██╗██║██╔══██╗██║
-███████╗███████║██║██╔██╗ ██║██║   ██║██████╔╝██║██████╔╝██║
-╚════██║██╔══██║██║██║╚██╗██║██║   ██║██╔══██╗██║██╔══██╗██║
-███████║██║  ██║██║██║ ╚████║╚██████╔╝██████╔╝██║██████╔╝██║
-╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝╚═════╝ ╚═╝
-````
-
-</div>
 
 ---
 
