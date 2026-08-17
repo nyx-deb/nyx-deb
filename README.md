@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/Nin-Shinobi/Nin-Shinobi/blob/main/THE-FUTURE.png" alt="Nin-Shinobi"/>
+  <img src="https://github.com/nyx-deb/nyx-deb/blob/main/THE-FUTURE.png" alt="nyx-deb"/>
 </p>
 
-<h1 align="center" style="color: #ff3d3d;">𝕹𝖎𝖓_𝕾𝖍𝖎𝖓𝖔𝖇𝖎🥷🏾</h1>
+<h1 align="center" style="color: #ff3d3d;">[ ℕყא ]</h1>
 <h3 align="center" style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
 
 - 🔭 **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
 - 🌱 **En apprentissage :** Node.js et autres technologies backend  
-- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [hwilson.tech](https://hwilson.vercel.app/)  
+- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [nyx.com](https://hwilson.vercel.app/)  
 - 📫 **Me contacter :** ninshinobi11@gmail.com  
 - ⚡ **Fun fact :** Otaku & Gamer jusqu’au bout 🥷😁  
 
