@@ -2,7 +2,6 @@
   <img src="https://github.com/nyx-deb/nyx-deb/blob/main/THE-FUTURE.png" alt="nyx-deb"/>
 </p>
 
-<h1 align="center" style="color: #ff3d3d;">[ ℕყא ]</h1>
 <h3 align="center" style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
 
 - 🔭 **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
