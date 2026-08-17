@@ -2,7 +2,8 @@
   <img src="https://github.com/nyx-deb/nyx-deb/blob/main/THE-FUTURE.png" alt="nyx-deb"/>
 </p>
 
-<h3 align="center" style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
+---
+<h3  style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
 
 - 🔭 **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
 - 🌱 **En apprentissage :** Node.js et autres technologies backend  
