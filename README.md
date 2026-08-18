@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Nin_Shinobi
+name: ℕყא
 learning: 
   - Node.js
   - Advanced Backend
