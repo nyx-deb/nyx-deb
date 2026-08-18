@@ -7,7 +7,7 @@
 
 - 🔭 **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
 - 🌱 **En apprentissage :** Node.js et autres technologies backend  
-- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [nyx.com](https://hwilson.vercel.app/)  
+- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [nyx.com](https://nyx-deb.vercel.app/)  
 - 📫 **Me contacter :** ninshinobi11@gmail.com  
 - ⚡ **Fun fact :** Otaku & Gamer jusqu’au bout 🥷😁  
 
