@@ -5,14 +5,14 @@
 ---
 <h3  style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
 
-- 🔭 **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
-- 🌱 **En apprentissage :** Node.js et autres technologies backend  
-- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [nyx.com](https://nyx-deb.vercel.app/)  
-- 📫 **Me contacter :** ninshinobi11@gmail.com  
-- ⚡ **Fun fact :** Otaku & Gamer jusqu’au bout 🥷😁  
+- **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
+- **En apprentissage :** Node.js et autres technologies backend  
+- **Projets :** Découvrez tous mes travaux sur [nyx.com](https://nyx-deb.vercel.app/)  
+- **Me contacter :** ninshinobi11@gmail.com  
+- **Fun fact :** Otaku & Gamer jusqu’au bout  
 
 ---
-### 🧠 About Me
+### About Me
 
 ```yaml
 name: ℕყא
@@ -28,13 +28,13 @@ hobbies:
 ```
 ---
 
-### 🏆 Réalisations :  
-- 🚀 Lancement de 3 applications prêtes pour la production    
-- 👨‍🏫 Mentorat de développeurs juniors et contributions à des projets open-source  
+### Réalisations :  
+-  Lancement de 3 applications prêtes pour la production    
+-  Mentorat de développeurs juniors et contributions à des projets open-source  
 
 ---
 
-### ⚡ Tech Stack — Matrice de Compétences
+### Tech Stack — Matrice de Compétences
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,9 +65,9 @@ hobbies:
 
 ---
 
-### 📬 Me contacter :  
+### Me contacter :  
 <p align="left">
-  <a href="mailto:ninshinobi11@gmail.com" target="_blank">
+  <a href="mailto:nocturnyx11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/nin_shinobi" target="_blank">
@@ -80,7 +80,7 @@ hobbies:
 
 ---
 
-### ❤️ Me soutenir :  
+### Me soutenir :  
 Si vous aimez mon travail et souhaitez soutenir mes projets, n’hésitez pas à m’offrir un café ou à contribuer à mon travail open-source !  
 <a href="https://buymeacoffee.com/nin_shinobi" target="_blank">
   <img src="https://img.shields.io/badge/M’offrir%20un%20Café-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="M’offrir un café">
