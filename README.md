@@ -5,7 +5,6 @@
 ---
 <h3  style="color: #d4af37;">Développeur passionné, spécialisé dans le développement frontend et backend.</h3>
 
-- **Travaille actuellement sur :** [PayBack](https://pay-back-zeta.vercel.app/)  
 - **En apprentissage :** Node.js et autres technologies backend  
 - **Projets :** Découvrez tous mes travaux sur [nyx.com](https://nyx-deb.vercel.app/)  
 - **Me contacter :** ninshinobi11@gmail.com  
